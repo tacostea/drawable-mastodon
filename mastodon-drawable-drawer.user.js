@@ -5,7 +5,7 @@
 // @description  畳めるDrawer
 // @author       tacostea
 // @match        https://*/web/*
-// @updateURL    https://github.com/tacostea/drawable-mastodon/raw/master/mastodon-drawable-drawer.user.js
+// @updateURL    https://github.com/tacostea/drawable-mastodon/raw/stable/mastodon-drawable-drawer.user.js
 // ==/UserScript==
 
 /*
